@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6xWswwjMW5jo4U4AKKiAtboX3HzsV8AhfNfYRVkXAL0PmKwIMWHpJ+xzAtuYNV1QaoRWQPhUS8PQ13daAj3Y3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ogierlic\\iot23\\IoT23_26784\\Lab2\\OGWEBAPP\\OGWEBAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ogierlic\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\7.0.10\\microsoft.netcore.app.runtime.linux-x64.7.0.10.nupkg.sha512",
+    "C:\\Users\\ogierlic\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\7.0.10\\microsoft.aspnetcore.app.runtime.linux-x64.7.0.10.nupkg.sha512",
+    "C:\\Users\\ogierlic\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\7.0.10\\microsoft.netcore.app.host.linux-x64.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
