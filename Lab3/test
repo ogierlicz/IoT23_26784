@@ -1,0 +1,12 @@
+POST https://iot23fnapp.azurewebsites.net/api/PeopleFn?code=oTAx8n0jA7KTdlXeiQYn5Pe-LPd-78GqpNe19RaKktcFAzFuHlgG4w== HTTP/1.1
+content-type: application/json
+
+{
+    "FirstName": "Jan",
+    "LastName": "Nowak"
+}
+
+GET https://iot23fnapp.azurewebsites.net/api/PeopleFn?code=oTAx8n0jA7KTdlXeiQYn5Pe-LPd-78GqpNe19RaKktcFAzFuHlgG4w== HTTP/1.1
+content-type: application/json
+
+{}
